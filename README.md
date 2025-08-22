@@ -46,4 +46,4 @@ It demonstrates:
 ## 🚀 How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/Lanor-Jephthah1/database-with-mysql-mongodb-postgresql.git
+   git clone https://github.com/Lanor-Jephthah1/database-with-mysql-mongodb-postgreql.git
