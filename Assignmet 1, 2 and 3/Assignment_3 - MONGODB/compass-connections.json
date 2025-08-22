@@ -1,0 +1,27 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "71b15691-53f4-412c-846d-cba75e349a81",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1755825840080"
+        }
+      },
+      "favorite": {
+        "name": "Newcon",
+        "color": "color1"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}

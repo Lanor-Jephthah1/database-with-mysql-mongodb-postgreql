@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "68a7ceaab97961814e3408b4"
+  },
+  "employee_id": {
+    "$numberLong": "1"
+  },
+  "first_name": "Jephthah",
+  "last_name": "Lanor",
+  "middle_name": "Kwame",
+  "date": {
+    "$date": "2025-08-22T00:00:00.000Z"
+  },
+  "email": "mclanorjeff@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68a7d245b97961814e3408b7"
+  },
+  "employee_id": {
+    "$numberLong": "2"
+  },
+  "first_name": "Israel",
+  "last_name": "Lanor",
+  "middle_name": "Yaw",
+  "date": {
+    "$date": "2025-09-22T00:00:00.000Z"
+  },
+  "email": "lanor31@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68a7d245b97961814e3408b8"
+  },
+  "employee_id": {
+    "$numberLong": "3"
+  },
+  "first_name": "Solomon",
+  "last_name": "Lanor",
+  "middle_name": "Yaw",
+  "date": {
+    "$date": "2025-10-22T00:00:00.000Z"
+  },
+  "email": "lanor51@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68a7d245b97961814e3408b9"
+  },
+  "employee_id": {
+    "$numberLong": "4"
+  },
+  "first_name": "Rhoda",
+  "last_name": "Lanor",
+  "middle_name": "Manye-Awo",
+  "date": {
+    "$date": "2025-10-22T00:00:00.000Z"
+  },
+  "email": "rhodamelza@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68a7d245b97961814e3408ba"
+  },
+  "employee_id": {
+    "$numberLong": "5"
+  },
+  "first_name": "Eunice",
+  "last_name": "Lanor",
+  "middle_name": "Aku",
+  "date": {
+    "$date": "2025-11-22T00:00:00.000Z"
+  },
+  "email": "mclanorjeff@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68a7d245b97961814e3408bb"
+  },
+  "employee_id": {
+    "$numberLong": "6"
+  },
+  "first_name": "Mercy",
+  "last_name": "Lano",
+  "middle_name": "Abena",
+  "date": {
+    "$date": "2025-11-22T00:00:00.000Z"
+  },
+  "email": "mclanorjeff@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68a7d415b97961814e3408bf"
+  },
+  "employee_id": {
+    "$numberLong": "7"
+  },
+  "first_name": "David",
+  "last_name": "Lanor",
+  "middle_name": "Yaw",
+  "date": {
+    "$date": "2025-09-22T00:00:00.000Z"
+  },
+  "email": "david31@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68a7d415b97961814e3408c0"
+  },
+  "employee_id": {
+    "$numberLong": "8"
+  },
+  "first_name": "Jeff",
+  "last_name": "Suderland",
+  "middle_name": "Kingston",
+  "date": {
+    "$date": "2025-10-22T00:00:00.000Z"
+  },
+  "email": "jefferson@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68a7d415b97961814e3408c1"
+  },
+  "employee_id": {
+    "$numberLong": "9"
+  },
+  "first_name": "Enerstina",
+  "last_name": "Lanor",
+  "middle_name": "Tetteh",
+  "date": {
+    "$date": "2025-10-22T00:00:00.000Z"
+  },
+  "email": "nesty21@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68a7d415b97961814e3408c2"
+  },
+  "employee_id": {
+    "$numberLong": "10"
+  },
+  "first_name": "Agnes",
+  "last_name": "Tettey",
+  "middle_name": "Abena",
+  "date": {
+    "$date": "2025-11-22T00:00:00.000Z"
+  },
+  "email": "aggie@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68a7d415b97961814e3408c3"
+  },
+  "employee_id": {
+    "$numberLong": "11"
+  },
+  "first_name": "Grace",
+  "last_name": "Teye",
+  "middle_name": "Sutherland",
+  "date": {
+    "$date": "2025-11-22T00:00:00.000Z"
+  },
+  "email": "gracey@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68a7e2632d4f02071bb8f489"
+  },
+  "employee_id": 12,
+  "first_name": "Raymond",
+  "last_name": "Amoah",
+  "middle_name": "Oteng",
+  "date": 1992,
+  "email": "otengamoah@gmail.com"
+}]
